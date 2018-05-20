@@ -1,0 +1,11 @@
+CARBIDE ACTIVIATION UNIT;
+
+login = (epic_games_services_multiplayer = active)
+player = (find_torso) = carbide skin = active
+print ('success')
+user ('add gamemode thanos infinity gauntlet 5/24/2018: 4:30 am')
+user ('hide gamemode 'thanos infinity gauntlet' 5/28/2018 patch 4.2')
+
+KEEP THIS PART CONFIDENTIAL:
+user ('add skin item shop 'limited' = true 'type' = mythic 'price' = 3000 name = 'Monstroious' data_print = 51671)
+user ('add gamemode = name = ('Competitve Season 1') 
